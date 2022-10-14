@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+div > span,
+div > input {
+    border-style: none;
+    display: inline-block;
+    width: 20%;
+    border-width: 1px;
+    border-color: black;
+}
+
+
+
